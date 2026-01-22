@@ -193,3 +193,5 @@ tiktokcdn.com
 *.tiktokcdn.com
 byteoversea.com
 *.byteoversea.com
+youtube.com
+*.youtube.com
