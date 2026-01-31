@@ -193,6 +193,10 @@ tiktokcdn.com
 *.tiktokcdn.com
 byteoversea.com
 *.byteoversea.com
+youtube.com
+*.youtube.com
+facebook.com
+*.facebook.com
 
 
 # === Android Module Web ===
@@ -237,5 +241,4 @@ androidplatform.net
 
 
 
-youtube.com
-*.youtube.com
+
