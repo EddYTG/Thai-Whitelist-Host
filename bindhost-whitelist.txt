@@ -201,3 +201,35 @@ facebook.com
 # === Android Module Web ===
 androidplatform.net
 *.androidplatform.net
+
+# Spotify
+spclient.wg.spotify.com
+apresolve.spotify.com
+audio-sp-spotify-com.akamaized.net
+heads-dot-spotify-com.akamaized.net
+line-dot-spotify-com.akamaized.net
+
+# Apple Music
+itunes.apple.com
+music.apple.com
+play.itunes.apple.com
+s.mzstatic.com
+aod.itunes.apple.com
+mvod.itunes.apple.com
+buy.itunes.apple.com
+
+# SoundCloud
+soundcloud.com
+api.soundcloud.com
+sndcdn.com
+a-v2.sndcdn.com
+i1.sndcdn.com
+i2.sndcdn.com
+
+# JOOX
+joox.com
+api.joox.com
+api-j.joox.com
+music.joox.com
+image.joox.com
+m-api.joox.com
